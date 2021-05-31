@@ -10,7 +10,7 @@ Welcome to No Errors Test Project's documentation!
    :maxdepth: 2
    :caption: Hello World!
 
-
+   useful
 
 Indices and tables
 ==================
